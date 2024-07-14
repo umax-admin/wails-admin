@@ -1,0 +1,12 @@
+{
+  "name": "wails-admin",
+  "outputfilename": "wails-admin",
+  "assetdir": "frontend/dist",
+  "wailsjsdir": "frontend/src",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build",
+  "author": {
+    "name": "ahKevinXy",
+    "email": "12@qq.com"
+  }
+}
